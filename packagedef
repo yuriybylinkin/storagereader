@@ -1,4 +1,4 @@
-﻿Описание.Имя("tablereader")
+﻿Описание.Имя("storagereader")
         .Версия("1.0.0")
         .Автор("Юрий Былинкин")
         .АдресАвтора("https://github.com/yuriybylinkin")
